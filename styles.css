@@ -35,4 +35,10 @@ ul li a{
 .img-mine{
     height: 300px;
     width: 200px;
+    background-image: url(aditya.jpeg);
+    background-size: cover;
+    background-repeat: no repeat;
+}
+.video{
+    width: 100%;
 }
