@@ -10,6 +10,11 @@ nav {
 body {
     background-color: #eee;
 }
+.wrapper{
+    margin: 0 auto;
+    width: 1000px;
+    background-color: red;
+}
 ul {
 
 }
@@ -26,4 +31,8 @@ ul li a{
     font-family: arial;
     color: #1e1e1e;
     padding: 0 20px;
+}
+.img-mine{
+    height: 300px;
+    width: 200px;
 }
